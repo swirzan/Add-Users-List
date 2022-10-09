@@ -94,7 +94,7 @@ const AddUser = (props) => {
             value={enteredAge}
             onChange={ageChangeHandler}
           />
-          <Button type="submit">Add User</Button>
+          <Button type="submit">Add Users</Button>
         </form>
       </Card>
     </>
